@@ -1,1 +1,1 @@
-# Netlify-Form-Submissions
+# Netlify-form-submissions
